@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578278616 source:f:\cpp\dda algorithm\main.cpp
+	<iostream>
+	<graphics.h>
+
